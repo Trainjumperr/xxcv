@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Made By @Trainjumperr","An Simple CC Checker Bot"];
 
 
 let currentIndex = 0;
